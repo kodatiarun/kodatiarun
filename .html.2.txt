@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image with Alternative Text</title>
+</head>
+<body>
+    <h1>Image with Alternative Text</h1>
+
+    <!-- Image with alt attribute -->
+    <img src="path-to-your-image.jpg" alt="A description of the image" width="500" height="300">
+
+</body>
+</html>
